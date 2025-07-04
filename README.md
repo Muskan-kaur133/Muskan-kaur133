@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Muskan-kaur133
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me instagram:https://www.instagram.com/muskankaur_87?igsh=MXRnNXBoaHI3MjVobA==
+                      linkedin:www.linkedin.com/in/kmuskan
 - 😄 Pronouns:she/her
 - ⚡ Fun fact: The first computer virus,called "creeper" was created as an experiment.
 
