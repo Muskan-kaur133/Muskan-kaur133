@@ -1,5 +1,5 @@
 # Hi,I am Muskan
-## 💫 About Me:
+## About Me:
 I’m a Machine Learning enthusiast passionate about building practical, data-driven solutions using Python.I enjoy transforming ideas into working ML applications from data preprocessing and model training to simple GUIs and deployments.
 - Currently exploring Deep Learning and time-series models like LSTM for real-world prediction tasks.
 - Improving my skills in Machine Learning algorithms, data analysis, and model evaluation.
